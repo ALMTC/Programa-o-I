@@ -1,0 +1,38 @@
+Referêcia bibliotecária para essa aula
+
+processing.org
+canal do YT: the coding train (tutoriais de processing)
+
+furlan,M Gomes,M Soares,M Concilio,R 2005
+"Algoritimos e lógica de programação". Editora thompson
+
+
+Computador:
+1 - passa corrente, ligado
+0 - ausêcia de cerrente
+
+0's e 1's = bits, o menor unidade de dados manipulada e armazenada em computador
+
+Bit = Binary digit    1bit=8bits
+
+converter para decimais: multiplicar pela base(2^n)
+10100 = 20
+110101 = 53
+
+Converter para binário: 
+
+20 para binário:20/2
+		  0 10/2
+		     0 5/2
+		 resta 1 2/2
+			  0 1/2 = 010100
+
+Curiosidade: ajuste de nível: vai de 0/255
+
+0000 = 0
+1111 = 15
+possibilidades: 16 - n=4
+
+2^n pssíveis valores para n bits
+
+e para 8bits? 2^8=256 possibilidades
